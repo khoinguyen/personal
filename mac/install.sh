@@ -12,5 +12,7 @@ brew cask install 1password
 brew cask install slack
 brew cask install java
 brew cask install viber
-brew cask install dropbox
+brew cask install eropbox
+brew cask install itsycal
+brew cask install bartender
 
